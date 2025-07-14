@@ -55,8 +55,8 @@ reddit-user-persona/
 
 3. **Create a `.env` file** in the project root with:
    ```env
-   REDDIT_CLIENT_ID=your_reddit_client_id
-   REDDIT_CLIENT_SECRET=your_reddit_client_secret
+   REDDIT_CLIENT_ID=your_client_id  <!-- get from https://www.reddit.com/prefs/apps by creating a script app -->
+   REDDIT_CLIENT_SECRET=your_client_secret  <!-- shown after app is created under "secret" -->
    OPENROUTER_API_KEY=your_openrouter_api_key
    ```
 
