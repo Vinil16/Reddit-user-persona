@@ -146,18 +146,6 @@ Recommends NYC eateries (Buvette breakfast) and engages in urban life (subway to
 
 ---
 
-## 🧩 Future Ideas
-
-- PDF export with branding
-- Web UI version (Streamlit or Flask)
-- Persona comparison tool
-- Visualization of traits via charts
-
----
-
-## 👨‍💻 Author
-
-Developed by [Your Name].  
-Made with 💬 + 🤖 for people who love internet psychology.
-
+##  Author
+Developed by Arava Bala Subrahmanya Vinil.  
 ---
