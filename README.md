@@ -1,4 +1,4 @@
-#  Reddit User Persona Generator
+#  Reddit User Persona 
 
 This project is a creative, AI-powered script that generates **detailed user personas** by analyzing any public Reddit profile. It uses Reddit data (posts & comments) and a powerful LLM (DeepSeek via OpenRouter) to build clean, structured personas that highlight a user's personality traits, interests, habits, and motivations.
 
