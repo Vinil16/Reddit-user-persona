@@ -40,7 +40,7 @@ reddit-user-persona/
 
 ---
 
-## ⚙️ How to Run It
+##  How to Run It
 
 1. **Clone the repository**
    ```bash
