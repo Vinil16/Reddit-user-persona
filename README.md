@@ -136,7 +136,7 @@ Recommends NYC eateries (Buvette breakfast) and engages in urban life (subway to
 
 ```
 
-##  Author
+## Author
 Developed by :
 Arava Bala Subrahmanya Vinil.  
 ---
